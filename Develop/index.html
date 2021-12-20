@@ -30,9 +30,16 @@
 </head>
 
 <body>
-    <div class="header">
-        <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
+
+    <!-- adjusted <div> container to an appropriate semantic container
+        and made the appropriate CSS stylesheet changes -->
+    <header>
+        
+        <!-- Converted multiple containers to svg logo with alt attribute text for appropriate screen reader performance -->
+        <h1><img src="assets/images/Logo.svg" alt="Horiseon"></h1>
+        
+        <!-- Changed <div> to <nav> and updated the CSS styling to match -->
+        <nav>
             <ul>
                 <li>
                     <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -44,8 +51,9 @@
                     <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
-        </div>
-    </div>
+        </nav>
+    </header>
+
     <div class="hero"></div>
     <div class="content">
         <div class="search-engine-optimization">
