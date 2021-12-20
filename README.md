@@ -1,4 +1,4 @@
-# <Your-Project-Title>Horiseon Homepage Refactor
+# <Your-Project-Title color="blue">Horiseon Homepage Refactor
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - What was your motivation?
