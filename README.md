@@ -9,12 +9,11 @@ The Horiseon website homepage code was written using undifferentiated container 
 The following is a brief description of my experience completing the project:
 
 - The html code was divided using undifferentiated containers making the site hard to navigate future development difficult.
-- I left the code file extensively commented for both the imaginary and real purposes of this assignment.
-- My aim was to provide an easy-to-maintain codebase for my imaginary client and a easy-to-grade codebase for my graders.
-- The CSS code utilized class declarations which were too braod an approach to styling the webpage. If they were utilized in future development, tracing the effects of the CSS could become exceedingly complicated and difficult.
-- I attempted to satisfy the spirit of the asignment by going beyond the elements we have been exposed to and I discovered what seems to me to be current state-of-art limitations. While I was able to use an ARIA attribute to describe the Hero section background image, and I was able to substitue an SVG to achieve a more desireable utterance from the screen reader, I could find no way to sensibly package abbreviations. I believe the accesibility standards should go beyond mere functionality to be truly inclusive. 
-- I practiced commentting with the intent todo so both meaningfully and concisely (In places I used precisely duplicate comments as they are easily removed with the find/replace function.)
-- Completing this project has deepened my understanding of coding in a cooperative setting where I will need to interpret and anticipate the needs and concerns of past, present and future stakeholders.
+- The CSS code utilized class declarations which were too broad an approach to styling the webpage. If they were utilized in future development, tracing the effects of the CSS could become exceedingly complicated and difficult.
+- I left the code file extensively commented to serve both the imaginary and real purposes of this assignment. My aim was to provide an easy-to-maintain codebase for my imaginary client and a easy-to-grade codebase for my graders.
+- To satisfy the spirit of the asignment I pushed myself to go beyond the elements we have been exposed to in class. I think I discovered the current state-of-the-art limitations for some accesibilty technologies. While I was able to use an ARIA attribute to describe the Hero section background image, and I was able to substitue an SVG to achieve a more desireable utterance from the screen reader, I could find no way to sensibly package abbreviations. I believe we should continue to improve accesibility beyond mere functionality toward a rich experience.
+- I practiced commentting with the intent to be both meaningful and concise (In several places I used precisely duplicate comments as they are easily removed with the find/replace function.)
+- Completing this project has deepened my understanding of coding in a cooperative setting where I will need to interpret and anticipate the needs and concerns of past, present and future stakeholders. I hope I have correctly anticipated the needs of my graders.
 - Through working on this project, I have learned about the experience of persons who use assistive technologies to access the site by auditing the site with a screen reader.  
 - I have also learned several of the factors considered by search engine providers when generating search results through online research.  
 - Most of all, I have spent time considering the many different ways code can be used to achieve similar results and what makes efficient code.
@@ -22,6 +21,7 @@ The following is a brief description of my experience completing the project:
 ## Installation
 To set up the website:
  - upload the index.html file along with the assets folder and all of its contents to the host server.
+ - Or see it online now at: [https://h0rsesh0e.github.io/horiseon-refactor/]
 ## Usage
 Use this webpage as the landing page of a more extensive website.  A companies presence on the web can provide brand awareness, lead generation, sales, and much more.  
 
@@ -43,4 +43,4 @@ I've also included complete and concise explanations of the changes I made for t
 
 <center>H0RSESH0E
 
-![H0RSESH0E Magnet](small%20toroid.png) 
+![H0RSESH0E Magnet](small toroid.png) 
