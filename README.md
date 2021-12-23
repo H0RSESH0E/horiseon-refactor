@@ -18,16 +18,16 @@ The following is a brief description of my experience completing the project:
 - I have also learned several of the factors considered by search engine providers when generating search results through online research.  
 - Most of all, I have spent time considering the many different ways code can be used to achieve similar results and what makes efficient code.
 
-## Installation
+### Installation
 To set up the website:
  - upload the index.html file along with the assets folder and all of its contents to the host server.
  - Or see it online now at: [https://h0rsesh0e.github.io/horiseon-refactor/]
-## Usage
+### Usage
 Use this webpage as the landing page of a more extensive website.  A companies presence on the web can provide brand awareness, lead generation, sales, and much more.  
 
 ## Credits
 This project began with the work of many others working for [Trilogy Education Services](https://www.trilogyed.com/) and [The School of Continuing Studies, University of Toronto](https://learn.utoronto.ca/). After completing a couple weeks of their Full Stack Coding Boot Camp, including detailed online modules and just a few hours of live online instructor lead classes, I feel confident that I was able to significantly improve the code of this website.  I'd also like to mention Mr. Banks, my highschool computer science teacher.  He deserses my recognition for his dedication to the teaching profession - it was well above average.  And finally, I'd like to thank Nick Maes.  I would not be here without his care and concern.
-## License
+### License
 In this section of this README file is the license. It will inform other developers of what they can and cannot do with this project. [MIT License](License.md).
 
 ## Features
@@ -41,6 +41,10 @@ I've also included complete and concise explanations of the changes I made for t
 
 &nbsp;
 
-<center>H0RSESH0E
+<center>
+**H0RSESH0E**
 
-![H0RSESH0E Magnet](smalltoroid.png) 
+![H0RSESH0E Magnet](./SmallToroid.png)
+&nbsp;
+
+**(This image displays in VS Code but leads to a 404 on GitHub)*
