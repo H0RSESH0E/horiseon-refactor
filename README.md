@@ -42,9 +42,10 @@ I've also included complete and concise explanations of the changes I made for t
 &nbsp;
 
 <center>
+<p align="center">
+
 **H0RSESH0E**
 
 ![H0RSESH0E Magnet](./SmallToroid.png)
-&nbsp;
 
-**(This image displays in VS Code but leads to a 404 on GitHub)*
+</p>
