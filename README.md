@@ -18,24 +18,12 @@ If your README is long, add a table of contents to make it easy for users to fin
 To set up the website:
  - upload the index.html file along with the assets folder and all of its contents to the host server
 ## Usage
-Use this webpage as the landing page of a more extensive website.  A companies presence on the web can provide brand awareness, lead generation, sales, and much more.  I have attached a screenshot of the web page with annotation of the changes I made to it. Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-## Credits
-This project began with the work of many others working for Trilogy Education services. [https://www.trilogyed.com/]  After a couple weeks of boot camp which included online modules and only a few hours of online instructor lead classes, I was able to improve the code of this website.  Also, I'd like to mention Mr. Banks, my highschool computer science teacher.  He deserse my thanks for his dedication to the  teaching profession - it was well above average.
-## License
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [./MIT License.md](MIT License.md).
+Use this webpage as the landing page of a more extensive website.  A companies presence on the web can provide brand awareness, lead generation, sales, and much more.  I have attached a screenshot of the web page with a simple wire frame highlighting the areas of the website that I improved. [Website Changes Screenshot](assets/images/readme%20screenshot%20for%20code%20refactor.jpg)
 
----
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-## Badges
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+## Credits
+This project began with the work of many others working for [Trilogy Education Services](https://www.trilogyed.com/) and [The School of Continuing Studies, University of Toronto](https://learn.utoronto.ca/). After completing a couple weeks of their Full Stack Coding Boot Camp, including detailed online modules and just a few hours of live online instructor lead classes, I feel confident that I was able to significantly improve the code of this website.  I'd also like to mention Mr. Banks, my highschool computer science teacher.  He deserses my recognition for his dedication to the teaching profession - it was well above average.  And finally, I'd like to thank Nick Maes.  I would not be here without his care and concern.
+## License
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [MIT License](License.md).
+
 ## Features
-If your project has a lot of features, list them here.
-## How to Contribute
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-## Tests
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+My refactor of the website includes a custom SVG file to solve the clients desire for a simple two color text branding of the compnay name while providing screen reader support on the website header that doesn't produce an off-color utterance.
