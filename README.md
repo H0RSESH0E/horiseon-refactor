@@ -18,6 +18,7 @@ The following is a short description of my experience completing the project:
 - I have also learned several of the factors considered by search engine providers when generating search results through online research.  
 - Most of all, I have spent time considering the many different ways code can be used to achieve similar results and what makes efficient code.
 
+![Screenshot detailing changes](./assets/images/screenshot.jpg)
 
 ## Installation
 To set up the website:
