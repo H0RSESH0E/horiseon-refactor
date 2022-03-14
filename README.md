@@ -8,7 +8,7 @@ The Horiseon website homepage code was written using undifferentiated container 
 
 The following is a short description of my experience completing the project:
 
-- The html code was divided using undifferentiated containers making the site hard to navigate future development difficult.
+- The html code was divided using undifferentiated containers making the site hard to navigate and future development difficult.
 - The CSS code utilized class declarations which were too broad an approach to styling the webpage. If they were utilized in future development, tracing the effects of the CSS could become exceedingly complicated and difficult.
 - I left the code file extensively commented to serve both the imaginary and real purposes of this assignment. My aim was to provide an easy-to-maintain codebase for my imaginary client and a easy-to-grade codebase for my graders.
 - To satisfy the spirit of the assignment I pushed myself to go beyond the elements we have been exposed to in class. I think I may have found limitations in the current state-of-the-art accessibility technologies. I was able to use an ARIA attribute to describe the Hero section background image, and I was able to substitute an SVG to achieve a more desirable utterance from the screen reader, however I could find no way to sensibly package abbreviations. I believe developers must continue to push to improve accessibility beyond mere adequate functionality toward a rich experience to achieve equitable inclusivity.
